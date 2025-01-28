@@ -30,6 +30,51 @@ navbar-brand {
     margin-top: 400px;
 }
 
+.kft {
+
+    margin-top: 10px;
+}
+
 .imb {
     margin-left: 600px;
 }
+
+body {
+    background-color:rgb(228, 228, 228);
+}
+
+.kes {
+    font-size: 350%;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.hrin {
+    margin-left: 130px;
+    color: rgb(63, 53, 53);
+    font-size: 250%;
+}
+
+.em{
+    margin-left: 140px;
+    color: rgb(63, 53, 53);
+    font-size: 250%;
+}
+
+ .tl{
+    margin-left: 150px;
+    color: rgb(63, 53, 53);
+    font-size: 250%;
+ }
+
+ .Yamp{
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius: 1%;
+ }
+
+ .Kawp{
+    margin-top: 10px;
+    margin-left: 850px;
+    border-radius: 1%;
+ }
